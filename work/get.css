@@ -1,0 +1,456 @@
+a{
+color: rgb(255, 255, 255);
+text-decoration: none;
+font-size: 19px;
+
+margin-left: -35px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+a:hover{
+color: rgb(246, 255, 246);
+
+	transition: 0.7s;
+	background-color: rgb(61, 120, 61);
+}
+
+#none{
+	position: sticky;
+	color: rgb(255, 255, 255);
+	background-color: rgb(89, 164, 89);
+	margin-left: 100px;
+	margin-top: -430px;
+	width: 1300px;
+	height: 40px;
+	padding: 11px;
+font-size: 30px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+
+
+}
+
+
+.go{ background-color: rgb(54, 114, 54);
+	color: white;
+	margin-top: 880px;
+	border-radius: 2px;
+	font-size: larger;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	padding: 1%;
+}
+#pre{
+	margin-top: -5%;
+	margin-left: 40%;
+height: 30px;
+border-radius: 7px;
+}
+#tey{
+	border-radius: 7px;
+	width: 40px;
+}
+#yet{
+	margin-left: 20px;
+	border-radius: 7px;
+}
+h1{
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	color: rgb(34, 83, 54);
+	margin-left: 45%;
+	margin-top: 8%;
+}
+#we{color: white;
+	background-color: rgb(134, 203, 119);
+margin-left:200px ;
+width:1000px;
+height:120px;
+border-radius: 10px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+text-decoration: none;
+font-size:70px;
+margin-top: 4%;
+padding: 2%;
+
+
+}
+.ju{
+	background-color: rgb(142, 185, 152);
+	margin-left: 12%;
+	width: 20px;
+	width: 30px;
+}
+#tell{
+
+	margin-top: 10%;
+}
+.dre{
+	background-color: rgb(112, 154, 120);
+	padding: 2%;
+	margin-left: 100px;
+	border-radius: 10px;
+}
+body{ 
+	width: 1300px;
+	background-color: rgb(221, 253, 225);
+}
+#van{
+margin-top: 5%;
+	background-image: url(about.PNG);
+	background-repeat: no-repeat;
+	width: 800px;
+	height: 400px;
+	margin-left: 6%;
+	margin-top: 5%;
+	
+
+}
+#sam{
+
+	font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-size: 16px;
+margin-left: 59%;
+}
+#group{
+	height: 980px;
+	padding: 2%;
+	color: white;
+	padding-inline-start: 5%;
+	background-color: rgb(165, 234, 161);
+	width: 1000px;
+	margin-left: 14%;
+	border-radius: 24px;
+	margin-top: 4%;
+}
+#lo{
+	margin-left: 48px;
+	font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#hu{
+	background-image: url(yu.PNG);
+	background-image: no-repeat ;
+	width: 300px;
+	height: 180px;
+	margin-left:56%;
+	margin-top: -100px;
+	
+}
+#nav{margin-top:-6%;
+	background-image: url(court.PNG);
+	background-repeat: no-repeat;
+	width: 800px;
+	height:160px;
+	margin-left: 4%;
+
+}
+#mas{
+margin-top: 27%;
+font-style: italic;
+	font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-size: 16px;
+margin-left: 500px;	
+}
+#vn{
+	margin-top: 8%;
+	background-image: url(dre.PNG);
+	background-repeat: no-repeat;
+	width: 800px;
+	height: 400px;
+	margin-left: 23%;	
+}
+#sm{
+
+	font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-size: 16px;
+margin-left: 500px;
+font-style: italic;
+
+}
+#ol{
+	margin-top: -9px;
+}
+#uh{
+
+	background-image: url(yu.PNG);
+	background-image: no-repeat ;
+	width: 300px;
+	height: 180px;
+	margin-left:56%;
+	margin-top: -100px;	
+}
+#fee{
+	background-color: rgb(111, 201, 162);
+	width: 860px;
+	margin-left: 300px;
+	height: 150px;
+	border-radius: 12px;
+	color: white;
+	font-size: x-large;
+	text-align: center;
+}
+#e{
+text-decoration: none;
+padding: 4%;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+margin-top: 6%;
+
+
+}
+b{
+	color: black;
+	font-family: monospace;
+}
+a:hover{
+	color: rgb(117, 255, 120);
+	padding: 2%;
+	width: auto;
+	border-top: solid white 3px;
+}
+.go:hove{
+	color: rgb(117, 255, 120);
+	padding: 1%;
+	width: auto;
+	border-top: solid white 3px;
+}	
+#lko{
+	font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-style: italic;
+	margin-left: 300px;	
+}
+#last{
+background-color:rgb(153, 227, 195);
+width: 800px;
+height: 500px;
+border-radius: 9px;
+margin-left: 315px;
+}
+
+#sec{
+	color: rgb(255, 255, 255);
+	font-size: 20px;
+	padding: 0%;
+	margin-left: 17%;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	
+}
+.cos{
+width: 300px;
+	border-radius: 20px;
+	border: none;
+	height: 22px;
+	font-family: monospace;
+	color: rgb(65, 83, 125);
+	background-color: rgb(184, 252, 211);
+text-align: center;
+
+}
+
+#lp{
+	margin-top: 3px;
+	margin-left: 140px;
+	padding: 2%;
+	width: 200px;
+}
+
+
+
+#link{
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	color: white;
+	background-color:rgb(76, 138, 76) ;
+	width: 110px;
+	height: 540px;
+	position: fixed;
+	font-size: 67px;
+	margin-top: -9px;
+	margin-left: -8px;
+text-align: center;
+}
+#up{
+
+	margin-top: -20px;
+}
+#back{
+
+	width: 1408px;
+	height: 470px;
+	background-image: url(capture.PNG);
+	background-repeat: no-repeat;
+	background-position: center;
+	margin-top: 1px;
+	margin-left: 102px;
+}
+#head{
+
+background-color:rgb(105, 190, 105);
+width: 1300px;
+height: 60px;
+margin-left: 100px;
+margin-top: -8px;
+}
+#logo{
+
+	background-image: url(form.PNG);
+	background-image: no-repeat ;
+	width: 105px;
+	height: 61px;
+	margin-left:100%;
+		margin-top: -48px;
+}
+.ret{
+
+	text-decoration: none;
+	font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	color: white;
+	font-style: oblique;
+	margin-left: 20%;
+	font-size: 38px;
+	
+}
+
+
+.select{
+margin-top: 65px;
+	background-color: rgb(78, 135, 78);
+text-align: center;
+	width: 150px;
+	border: none;
+	height: 40px;
+	border-radius: 20px;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	color: white;
+	font-size: 14px;
+}
+#lect{
+	margin-top: -105px;
+	margin-left: 240px;
+	
+	
+}
+.cos:hover{
+	width: 350px;
+	height: 30px;
+}
+.select:hover{
+	width: 180px;
+	height: 40px;
+}
+.yut{
+margin-top: 40px;
+font-family: 'Courier New', Courier, monospace;
+background-color: rgb(254, 255, 246);
+border-radius: 10px;
+text-align: left;
+width: 400px;
+height: 100px;
+
+}
+.send{
+	color: white;
+	background-color: rgb(72, 126, 84);
+width: 180px;
+height: 30px;
+	border: none;
+	margin-top: -30px;
+	border-radius: 8px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+margin-left: 460px;
+
+}
+.send:hover{
+	width: 150px;
+	height: 40px;
+	background-color: rgb(50, 166, 75);
+}
+#footer{
+margin-top: 100px;
+width: 1515px;
+	background-color: rgb(154, 242, 159);
+height: 300px;
+margin-left: -8px;
+
+}
+#qw{
+	margin-top: 2px;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+color: rgb(234, 255, 235);
+background-color: rgb(99, 190, 93);
+width: 1515px;
+margin-left: -8px;
+text-align: center;
+height: 20px;
+font-size: medium;
+font-style: normal;
+}
+#in{
+	margin-top: 30px;
+	text-align: center;
+	text-decoration: none;
+	margin-left: 120px;
+	font-style: normal;
+	font-size: larger;
+	font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.g{
+	color: white;
+	font-size: 30px;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#ni{
+	margin-top: -85px;
+	text-align: center;
+	text-decoration: none;
+	margin-left: 10px;
+	font-style: normal;
+	font-size: larger;
+	
+	font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+u{
+	text-decoration: none;
+}
+.kl{
+	font-size: larger;
+color: white;
+margin-left: 12px;
+}
+#nw{
+font-style: normal;
+	margin-left: 1200px;
+font-size: medium;
+	margin-top: -70px;
+}
+#w{
+	font-style: normal;
+margin-left: 120px;
+margin-top: 50px;
+font-size: smaller;
+}
+
+#wr{
+	font-size: x-large;
+}
+#pic{
+	background-image: url(insta.PNG);
+	background-image: none;
+	padding: -2px;
+
+}
+img{
+	border-radius: 10px;
+	width: 40px;
+	height: 37px;
+	margin-left: 120px;
+	margin-top: -190px;
+}
+
+#dw:hover{
+width: none;
+background-color: rgb(119, 227, 185);
+background-color: none;
+border: none;
+border-radius: 40px;
+margin-left: 30px;
+padding: none;
+
+}
+
